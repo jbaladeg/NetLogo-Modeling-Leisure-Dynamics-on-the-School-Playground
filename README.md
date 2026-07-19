@@ -177,3 +177,18 @@ to calcular-indicadores
   ; Cálculo específico por zonas (Grada, Amarilla, Gris)...
 end
 ```
+
+## 7. Ejemplo de difernetes combinaciones y situaciones.
+Este código permite la compatación de diferentes situaciones al cambiar:
+  1) Tamaño de la cancha
+  2) Ubicación de la cancha
+  3) Número de zonas de interés o juego alternativo
+
+A continuación se presenta un ejemplo de diferentes combinaciones:
+<
+<img width="800" height="429" alt="netlogo" src="https://github.com/user-attachments/assets/e691cf67-f9b9-4169-948c-17e4251bb34f" />
+
+
+
+
+
